@@ -1,3 +1,4 @@
+!pip install spotdl
 import os
 
 # Function to download a Spotify playlist
