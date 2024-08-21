@@ -1,7 +1,8 @@
 
 # Spotify Playlist Downloader
 
-![Spotify Logo](https://upload.wikimedia.org/wikipedia/commons/a/a0/Spotify_icon.png)
+!![Spotify Logo](https://www.scdn.co/i/_global/open-graph-default.png)
+
 
 ## Overview
 
