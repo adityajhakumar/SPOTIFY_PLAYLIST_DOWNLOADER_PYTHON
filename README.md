@@ -93,7 +93,8 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 For any questions or suggestions, please contact:
 
 - **Name:** Aditya Kumar Jha
-- **Email:** your-email@example.com
+- **LinkedIn:** [Aditya Kumar Jha](https://www.linkedin.com/in/aditya-kumar-jha-b0b669252)
+
 
 ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 ```
